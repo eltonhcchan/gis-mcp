@@ -176,6 +176,8 @@ nav:
           - Climate Data: examples/climate_data_example.md
       - Contributing: contributing.md
       - Related MCP Servers: related-mcp-servers.md
+      - Geospatial MCP landscape: geospatial-mcp-landscape.md
+      - Open data portals survey: open-data-portals-geospatial-survey.md
   - Support:
       - Link to Discord: https://discord.gg/dzkXZsZK
       - Link to GitHub issues: https://github.com/mahdin75/gis-mcp/issues

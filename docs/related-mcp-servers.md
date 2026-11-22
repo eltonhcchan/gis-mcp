@@ -2,6 +2,8 @@
 
 This page lists other MCP servers that complement GIS MCP Server and can be used together to build comprehensive geospatial AI workflows.
 
+For a broader survey of who already offers geospatial MCP and which tool patterns are typical, see [Geospatial MCP landscape](geospatial-mcp-landscape.md). For how national open-data portals expose GIS services (OGC / ArcGIS, API keys, analytics), see [Open data portals survey](open-data-portals-geospatial-survey.md).
+
 ## GeoServer MCP
 
 **Repository:** [mahdin75/geoserver-mcp](https://github.com/mahdin75/geoserver-mcp/)
